@@ -11,7 +11,7 @@ namespace WordFinderServer
     public class Websocket
     {
         public static WebSocketServer Server = new WebSocketServer("ws://localhost");
-        public class Test : WebSocketBehavior
+        public class Main : WebSocketBehavior
         {
             protected override void OnOpen()
             {
@@ -32,7 +32,7 @@ namespace WordFinderServer
         }
         public static void Setup()
         {
-            Server.AddWebSocketService<Test>("/Word");
+            Server.AddWebSocketService<Main>("/Word");
             Server.Start();
         }
     }
