@@ -8,3 +8,5 @@ This can be immensely improved.
 2. Once compiled run the server
 3. Execute the javascript in your game console.
 4. Profit
+
+I will be linking the compiled server btw.
