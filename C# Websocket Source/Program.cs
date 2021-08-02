@@ -14,8 +14,7 @@ namespace WordFinderServer
 
             while (true)
             {
-                string nope = Console.ReadLine();
-                API.Find(nope.ToUpper());
+                Console.ReadKey(); //Prevent console from closing/exiting
             }
         }
     }
