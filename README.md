@@ -1,4 +1,4 @@
-# jklm-bombparty-bot
+# JKLM.FUN BOT
 
 This is a basic jklm bombparty bot that automatically types the words for you.
 
