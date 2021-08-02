@@ -10,3 +10,6 @@ This can be immensely improved.
 4. Profit
 
 I will be linking the compiled server btw.
+
+
+Gif of it in acton: https://gyazo.com/2c80e62fbab9c96d82a454c81a7af563
